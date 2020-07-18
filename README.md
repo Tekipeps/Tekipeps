@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ![Github Logo](./profileBanner.jpg)
-Format: ! [Alt Text](url)
 
 - 🔭 I’m currently working on Nodejs-Express
 - 🌱 I’m currently learning MERN stack
