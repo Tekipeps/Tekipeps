@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Github Logo](./profileBanner.jpg)
+Format: ! [Alt Text](https://raw.githubusercontent.com/Tekipeps/Tekipeps/master/profileBanner.jpg)
 
 - 🔭 I’m currently working on Nodejs-Express
 - 🌱 I’m currently learning MERN stack
