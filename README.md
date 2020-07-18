@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi am Tekena Solomon👋
 
 ![Github Logo](https://raw.githubusercontent.com/Tekipeps/Tekipeps/master/profileBanner.jpg)
 
