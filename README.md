@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on Nodejs-Express
 - 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate on Fullstack web development
-- 🤔 I’m looking for help with TypeScript
 - 💬 Ask me about Anything
 - 📫 How to reach me: tekipeps@gmail.com
 
