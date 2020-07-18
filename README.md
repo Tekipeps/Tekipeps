@@ -11,7 +11,7 @@ I am proficient with the following
 - Reactjs
 - Postgresql
 
-###### How to reach me:
+### How to reach me:
 
 - Email: tekipeps@gmail.com
 - Twitter: [@tekipeps](https://twitter.com/tekipeps)
