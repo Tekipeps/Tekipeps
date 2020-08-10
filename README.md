@@ -2,7 +2,7 @@
 
 ###### I am Tekena Solomon
 
-![Github Logo](https://raw.githubusercontent.com/Tekipeps/Tekipeps/master/profileBanner.jpg)
+![Logo](https://raw.githubusercontent.com/Tekipeps/Tekipeps/master/profileBanner.jpg)
 
 I am proficient with the following
 
@@ -10,6 +10,7 @@ I am proficient with the following
 - Mongodb
 - Reactjs
 - Postgresql
+- Apollo-Graphql
 
 ### How to reach me:
 
