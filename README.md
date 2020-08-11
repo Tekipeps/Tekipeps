@@ -2,6 +2,11 @@
 
 ###### I am Tekena Solomon
 
+===
+
+![VIEW PORTFOLIO](https://tekena-solomon.herokuapp.com/)
+
+===
 ![Logo](https://raw.githubusercontent.com/Tekipeps/Tekipeps/master/profileBanner.jpg)
 
 I am proficient with the following
