@@ -4,7 +4,7 @@
 ### <div align="center"> Hi 👋, I'm Tekena Solomon, a full-stack freelance developer 👨‍💻 working remotely.</div>  
   
 
-- 🌱 I’m currently learning DevOps with Doker and Kubernetes  
+- 🌱 I’m currently learning DevOps with Docker and Kubernetes  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
