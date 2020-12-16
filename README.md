@@ -13,8 +13,6 @@
 
 - 🎮 I play [torn](https://www.torn.com/2175327) in my spare time
 
-<a href="https://www.torn.com/2175327" ><img src="https://www.torn.com/signature.php?id=8&user=2175327" /></a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tekipeps" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tekipeps" height="30" width="40" /></a>
