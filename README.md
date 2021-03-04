@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
 </a> 
  <a href="mailto:tekena157@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/gmail-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/gmail-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=EA4335"" alt="gmail" style="margin-bottom: 5px;" />
  </a>
 </div>  
  
