@@ -9,5 +9,8 @@
 <a href="https://instagram.com/tekipeps" target="_blank">
 <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
 </a> 
+
+ <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tekipeps&" alt="Tekipeps" /></div>
+
 </div> 
- 
+
